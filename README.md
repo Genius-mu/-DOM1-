@@ -34,5 +34,6 @@ Welcome to **<DOM /> Headshots**, a modern, responsive React website that allows
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/amena-headshots.git
+git clone https://github.com/Genius-mu/-DOM1-.git
 cd amena-headshots
+```
